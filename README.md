@@ -1,4 +1,4 @@
-# dtairmovie
+# Air Movie Java
 Java app that checks the flight duration and suggests the user which movies to watch.
 
 ## How it works
